@@ -1,0 +1,6 @@
+{
+  "parrent": "item/generated",
+  "textures": {
+    "layer0" : "skillmod:item/medicine_cream"
+  }
+}
