@@ -49,6 +49,9 @@ public class SkillMod {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.CREAM);
+            event.accept(ModItems.GOLDENCOIN);
+            event.accept(ModItems.EMERALDCOIN);
+            event.accept(ModItems.SILVERCOIN);
         }
     }
 

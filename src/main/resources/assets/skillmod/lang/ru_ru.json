@@ -1,3 +1,8 @@
 {
-  "item.skillmod.medicine_cream": "Лечебная мазь"
+  "item.skillmod.medicine_cream": "Medicinal cream",
+  "item.skillmod.golden_coin": "Золотая монета",
+  "item.skillmod.silver_coin": "Серебрянная монета",
+  "item.skillmod.emerald_coin": "Изумрудная монета",
+
+  "creativetab.tutorial_tab" : "Skill Mod"
 }

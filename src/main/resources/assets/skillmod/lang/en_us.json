@@ -1,3 +1,8 @@
 {
-  "item.skillmod.medicine_cream": "Medicinal cream"
+  "item.skillmod.medicine_cream": "Medicinal cream",
+  "item.skillmod.golden_coin": "Golden coin",
+  "item.skillmod.silver_coin": "Silver coin",
+  "item.skillmod.emerald_coin": "Emerald coin",
+
+  "creativetab.tutorial_tab" : "Skill Mod"
 }
